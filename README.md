@@ -1,6 +1,6 @@
 # Multi-Agent-RM-based-Task-Assignment-in-VEC
 
-Follow the following steps to run experiments in Matlab (ver 2021b).
+Follow the below steps to run experiments in Matlab (ver 2021b).
 
 Step 1: Unzip the file Research_code.zip.
 
